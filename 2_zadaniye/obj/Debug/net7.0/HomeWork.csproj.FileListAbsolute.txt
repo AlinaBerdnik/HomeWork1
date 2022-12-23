@@ -1,0 +1,30 @@
+/Users/andrejslennikov/HomeWork/bin/Debug/net7.0/HomeWork
+/Users/andrejslennikov/HomeWork/bin/Debug/net7.0/HomeWork.deps.json
+/Users/andrejslennikov/HomeWork/bin/Debug/net7.0/HomeWork.runtimeconfig.json
+/Users/andrejslennikov/HomeWork/bin/Debug/net7.0/HomeWork.dll
+/Users/andrejslennikov/HomeWork/bin/Debug/net7.0/HomeWork.pdb
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.csproj.AssemblyReference.cache
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.AssemblyInfoInputs.cache
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.AssemblyInfo.cs
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.dll
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/refint/HomeWork.dll
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.pdb
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/HomeWork.genruntimeconfig.cache
+/Users/andrejslennikov/HomeWork/obj/Debug/net7.0/ref/HomeWork.dll
+/Users/andrejslennikov/HomeWork/2 zadaniye/bin/Debug/net7.0/HomeWork
+/Users/andrejslennikov/HomeWork/2 zadaniye/bin/Debug/net7.0/HomeWork.deps.json
+/Users/andrejslennikov/HomeWork/2 zadaniye/bin/Debug/net7.0/HomeWork.runtimeconfig.json
+/Users/andrejslennikov/HomeWork/2 zadaniye/bin/Debug/net7.0/HomeWork.dll
+/Users/andrejslennikov/HomeWork/2 zadaniye/bin/Debug/net7.0/HomeWork.pdb
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.csproj.AssemblyReference.cache
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.AssemblyInfoInputs.cache
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.AssemblyInfo.cs
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.dll
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/refint/HomeWork.dll
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.pdb
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/HomeWork.genruntimeconfig.cache
+/Users/andrejslennikov/HomeWork/2 zadaniye/obj/Debug/net7.0/ref/HomeWork.dll

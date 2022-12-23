@@ -1,0 +1,15 @@
+/Users/andrejslennikov/HomeWork/4 zadaniye/bin/Debug/net7.0/4 zadaniye
+/Users/andrejslennikov/HomeWork/4 zadaniye/bin/Debug/net7.0/4 zadaniye.deps.json
+/Users/andrejslennikov/HomeWork/4 zadaniye/bin/Debug/net7.0/4 zadaniye.runtimeconfig.json
+/Users/andrejslennikov/HomeWork/4 zadaniye/bin/Debug/net7.0/4 zadaniye.dll
+/Users/andrejslennikov/HomeWork/4 zadaniye/bin/Debug/net7.0/4 zadaniye.pdb
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.csproj.AssemblyReference.cache
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.AssemblyInfoInputs.cache
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.AssemblyInfo.cs
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.csproj.CoreCompileInputs.cache
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.dll
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/refint/4 zadaniye.dll
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.pdb
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/4 zadaniye.genruntimeconfig.cache
+/Users/andrejslennikov/HomeWork/4 zadaniye/obj/Debug/net7.0/ref/4 zadaniye.dll
